@@ -12,8 +12,7 @@
 
 
 **Languages and Tools:**  
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[ICON SLUG].svg" />
-
+<div style="align=left; height=20;">
 ![image](https://user-images.githubusercontent.com/44236301/115981574-6445f480-a5b2-11eb-8b06-f5a226bf14b8.png)
 ![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
 ![image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
@@ -23,3 +22,4 @@
 ![image]()
 ![image]()
 ![image]()
+</div>
