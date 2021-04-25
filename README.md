@@ -1,6 +1,5 @@
 ## Hi there, I'm Nishant 👋
 
-###  I'm from City of Hundred Islands 🏝️, India
 ###  Computer Science Graduate from IIIT Jabalpur
 
 
