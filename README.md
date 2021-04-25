@@ -3,7 +3,7 @@
 ###  Computer Science Graduate from IIIT Jabalpur
 
 
-<img align="" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 🌱 Currently learning React & front-end frameworks
 - 🥇 A Red Hat Certified System Administrator(RHCSA)
@@ -12,8 +12,6 @@
 - ⚡ Fun fact: I love to go on Trekking
 <br/>
 
-I learned a lot from the open-source community and I love how collaboration and knowledge sharing has become so easy through open-source.
-<br/>
 
 ### Connect with me:
 
@@ -43,6 +41,8 @@ I learned a lot from the open-source community and I love how collaboration and 
 
 
 
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing has become so easy through open-source.
+<br/>
 
 
 
