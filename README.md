@@ -3,7 +3,6 @@
 
 ###  Computer Science Graduate from IIIT Jabalpur
 <br/>
-<br/>
 
 
 
