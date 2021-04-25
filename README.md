@@ -16,7 +16,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
 <br/>
 
 **Languages and Tools:**
@@ -51,4 +50,4 @@ I learned a lot from the open-source community and I love how collaboration and 
 [website]: #
 [instagram]: https://www.instagram.com/nishant.choudhary97?r=nametag
 [linkedin]: https://www.linkedin.com/in/nishant-choudhary-b77265157/?originalSubdomain=in
-[facebbok]: https://www.facebook.com/nishant.choudhary.921230
+[facebook]: https://www.facebook.com/nishant.choudhary.921230
