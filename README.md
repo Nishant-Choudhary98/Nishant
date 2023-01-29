@@ -7,9 +7,8 @@
 
 
 
-- 🌱 Currently learning React & front-end frameworks
+- 🌱 Currently learning various Devops Technologies
 - 🥇 A Red Hat Certified System Administrator(RHCSA)
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - 💬 Ask me about Python, Linux and Latest tech releases
 - ⚡ Fun fact: I love to go on Trekking
 <br/>
